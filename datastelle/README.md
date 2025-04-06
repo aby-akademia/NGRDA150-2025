@@ -4,6 +4,7 @@ Hierdie gids bevat die datastelle wat gebruik word vir voorbeelde en praktiese o
 
 ## Inhoud
 
+* [LE3 verkope.csv](verkope.csv)   (Geskep deur Eugene Steyn)
 * ...
 
 ## Bydraes
