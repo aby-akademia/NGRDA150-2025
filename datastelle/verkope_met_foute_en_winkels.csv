@@ -1,0 +1,6 @@
+Datum,Produk,Hoeveelheid,Prys,Winkel
+2025-03-01,Brood,2,15.50,Winkel_A
+2025-03-02,,1,12.00,Winkel_A
+2025-03-03,Brood,5,15.50,Winkel_A
+2025-03-05,Brood,-1,15.50,Winkel_A
+2025-03-06,Melk,3,12.00,Winkel_B
