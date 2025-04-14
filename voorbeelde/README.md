@@ -12,6 +12,8 @@ Hierdie gids bevat voorbeeldkode wat gebruik word om die konsepte wat in die kur
 * [LE3.4 Evalueer die kwaliteit van data (Colab Notaboek)](LE3_4.ipynb)
 * [LE3.5 Identifiseer en spreek vooroordele aan (Colab Notaboek)](LE3_5.ipynb)
 
+### Diverse
+* [DA1.3 punte analise](DA1_3_punte.ipynb)
 
 ## Bydraes
 
