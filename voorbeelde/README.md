@@ -6,6 +6,9 @@ Hierdie gids bevat voorbeeldkode wat gebruik word om die konsepte wat in die kur
 
 * [Voorbeeld 1: Inleiding tot Python (Colab Notaboek)](Python_Inleiding.ipynb)
 
+### Leereenheid 2
+* [LE2.2 Gebruik die toepaslike hulpmiddels en tegnieke om data vanaf verskeie bronne te verkry (Colab Notaboek)](LE2_2.ipynb)
+
 ### Leereenheid 3
 * [LE3.2 Analiseer en som data op (Colab Notaboek)](LE3_2.ipynb)
 * [LE3.3 Skep en interpreteer datavisualisasies (Colab Notaboek)](LE3_3.ipynb)
