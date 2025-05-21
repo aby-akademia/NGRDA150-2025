@@ -17,6 +17,7 @@ Hierdie "repository" is geskep om hulpbronne te verskaf wat studente kan onderst
 * Voorbeeldkode (Python)
 * Datastelle
 * Skakels na nuttige webwerwe en artikels
+* Videos
 * Enige ander relevante materiaal wat die studente kan help.
 
 ## Hulpbronne
@@ -24,6 +25,7 @@ Hierdie "repository" is geskep om hulpbronne te verskaf wat studente kan onderst
 * **`voorbeelde/`**: Hier vind jy voorbeeldkode wat jou sal help in die module.
 * **`datastelle/`**: Datastelle wat gebruik word vir voorbeelde.
 * **`skakels/`**: Skakels na nuttige webwerwe, artikels en dokumentasie.
+* **`videos/`**: Videos wat nuttig is vir die module.
 * **`diverse/`**: Enige ander hulpbronne wat nie in die ander gidse pas nie.
 
 ## Bydraes

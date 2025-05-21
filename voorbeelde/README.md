@@ -24,6 +24,7 @@ Hierdie gids bevat voorbeeldkode wat gebruik word om die konsepte wat in die kur
 
 ### Diverse
 * [DA1.3 punte analise](DA1_3_punte.ipynb)
+* [Praktiese Voorbeeld met Verbruikersprysindeks data van Statistiek Suid-Afrika](Praktiese_voorbeeld.ipynb)
 
 ## Bydraes
 
